@@ -1,6 +1,6 @@
 class Assets {
   Assets._();
-  
+
   /// Assets for imagesImageStylesAlquran
   /// assets/images/image_styles/alquran.svg
   static const String imagesImageStylesAlquran = "assets/images/image_styles/alquran.svg";
