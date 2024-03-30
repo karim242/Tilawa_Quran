@@ -1,5 +1,5 @@
 import 'package:tilawa_quran/quran/domain/entites/surah_details.dart';
-import 'package:tilawa_quran/quran/domain/repository/base_repository.dart';
+import 'package:tilawa_quran/quran/domain/repository/base_quran_repository.dart';
 
 class GetSurahDetailsCase{
   final BaseQuranRepository  repository;

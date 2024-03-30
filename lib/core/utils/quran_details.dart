@@ -1,5 +1,5 @@
 import 'package:tilawa_quran/quran/domain/entites/surah_details.dart';
-import 'package:tilawa_quran/utils/assets.dart';
+import 'package:tilawa_quran/core/utils/assets.dart';
 
 List<SurahDetails> quranDetails = const [
   SurahDetails(

@@ -1,4 +1,4 @@
-List<Map<String, dynamic>> azkar =[
+List<Map<String, dynamic>> azkarAndDoaList =[
   {
     "أذكار الصباح": [
       {

@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:tilawa_quran/utils/app_styles.dart';
-import 'package:tilawa_quran/utils/assets.dart';
+import 'package:tilawa_quran/core/utils/app_styles.dart';
+import 'package:tilawa_quran/core/utils/assets.dart';
 import 'package:tilawa_quran/quran/presentation/views/home_page.dart';
 
 class SplachScreen extends StatefulWidget {

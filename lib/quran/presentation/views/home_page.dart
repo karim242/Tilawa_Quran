@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tilawa_quran/utils/app_styles.dart';
+import 'package:tilawa_quran/core/utils/app_styles.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
